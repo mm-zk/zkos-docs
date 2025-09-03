@@ -2,6 +2,10 @@
 
 State as of 3 September 2025.
 
+
+Important -- make sure that you pick compatible versions of the system (as of writing - zkos-server 0.2.0 + zksync-airbender-prover 0.4.1).
+
+
 ## Running only sequencer locally
 
 Easy, no resources required, using local L1 and fake proofs.
